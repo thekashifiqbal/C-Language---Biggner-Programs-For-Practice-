@@ -7,4 +7,5 @@ int main() {
     printf("Age : %p\nGpa : %p\nGrade : %p\n",&age, &gpa, &grade);
     
     return 0;
+
 }

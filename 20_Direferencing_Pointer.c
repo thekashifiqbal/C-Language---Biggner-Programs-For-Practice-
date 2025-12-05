@@ -6,4 +6,5 @@ int main() {
     printf("Age: %p\n", *pAge);
     printf("age: %d\n",&age);
     return 0;
+
 }
